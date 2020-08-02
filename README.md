@@ -1,7 +1,6 @@
 ### Hi there, I'm [Kolby!](https://kolbykruger.github.io) 👋
 
 <br />
-<br />
 
 Hi, I'm Kolby Kruger, a Senior Designer + Developer located in Vermont.
 
