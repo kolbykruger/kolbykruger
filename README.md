@@ -1,4 +1,4 @@
-### Hi there, I'm [Kolby!](https://kolbykruger.github.io) 👋
+### Hi there, I'm [Kolby!](https://kolbykruger.github.io)
 
 <br />
 
