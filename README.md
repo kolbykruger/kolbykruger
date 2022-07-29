@@ -4,7 +4,7 @@
 
 Hi, I'm Kolby Kruger, a Senior Designer + Developer located in Vermont.
 
-- I’m currently working at [Eternity](https://eternitymarketing.com/)
+- I’m currently looking for new career opportunities.
 - I’m currently learning [Vue](https://vuejs.org/), [Nuxt](https://nuxtjs.org/), and [Typescript](https://www.typescriptlang.org/)
 - I'm currently loving the [Prismic CMS](http://prismic.io/)
 
